@@ -5,3 +5,4 @@
 | program name | usage or functions |
 |:------------:|:------------------ |
 | lorem        | Generate a lorem paragraph and return it |
+| powei        | Count number of lines in all files of a directory |
